@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Bill Hub 集账 Blog</title>
-        <link>https://docs.billhub.cn/blog/</link>
+        <link>https://docs.billhub.cn/blog</link>
         <description>Bill Hub 集账 Blog</description>
         <lastBuildDate>Mon, 02 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[welcome]]></title>
-            <link>https://docs.billhub.cn/blog/2024/12/02/welcome/</link>
-            <guid>https://docs.billhub.cn/blog/2024/12/02/welcome/</guid>
+            <link>https://docs.billhub.cn/blog/2024/12/02/welcome</link>
+            <guid>https://docs.billhub.cn/blog/2024/12/02/welcome</guid>
             <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[今天，我们开始推出社区版]]></description>
             <content:encoded><![CDATA[<p>今天，我们开始推出社区版</p>
