@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://orgbillhub.github.io/blog/</id>
+    <id>https://docs.billhub.cn/blog/</id>
     <title>Bill Hub 集账 Blog</title>
     <updated>2024-12-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://orgbillhub.github.io/blog/"/>
+    <link rel="alternate" href="https://docs.billhub.cn/blog/"/>
     <subtitle>Bill Hub 集账 Blog</subtitle>
-    <icon>https://orgbillhub.github.io/img/favicon.ico</icon>
+    <icon>https://docs.billhub.cn/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[welcome]]></title>
-        <id>https://orgbillhub.github.io/blog/2024/12/02/welcome/</id>
-        <link href="https://orgbillhub.github.io/blog/2024/12/02/welcome/"/>
+        <id>https://docs.billhub.cn/blog/2024/12/02/welcome/</id>
+        <link href="https://docs.billhub.cn/blog/2024/12/02/welcome/"/>
         <updated>2024-12-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[今天，我们开始推出社区版]]></summary>
         <content type="html"><![CDATA[<p>今天，我们开始推出社区版</p>
