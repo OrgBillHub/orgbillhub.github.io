@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://orgbillhub.github.io/blog</id>
-    <title>Bill Hub 集账 Blog</title>
+    <title>Bill Hub - 统一支付和对账管理平台 Blog</title>
     <updated>2024-12-02T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://orgbillhub.github.io/blog"/>
-    <subtitle>Bill Hub 集账 Blog</subtitle>
+    <subtitle>Bill Hub - 统一支付和对账管理平台 Blog</subtitle>
     <icon>https://orgbillhub.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[welcome]]></title>
